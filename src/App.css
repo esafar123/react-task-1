@@ -4,11 +4,14 @@
 
 .imgprod {
   border-radius: 30px;
-}
-
-.prodlist {
   display: flex;
   flex-wrap: wrap;
+}
+
+.ShoeList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
 }
 
 .App-logo {
